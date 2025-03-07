@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.ritik.rapido",
+      "bundleIdentifier": "com.bossia.rapido",
       "config": {
                 "googleMapsApiKey": "YOUR_GOOGLE_MAP_KEY"
             }
@@ -29,7 +29,7 @@
         "foregroundImage": "./src/assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.ritik.rapido"
+      "package": "com.bossia.rapido"
     },
     "web": {
       "bundler": "metro",
